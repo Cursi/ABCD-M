@@ -1,0 +1,15 @@
+.centeredCardContent mat-radio-button
+{
+  marign-left:15px;
+  margin-right:15px;
+}
+
+.mat-radio-button.mat-accent .mat-radio-inner-circle, .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple), .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple, .mat-radio-button.mat-accent:active .mat-radio-persistent-ripple
+{
+  background: #008B8B !important;
+}
+
+.centeredCardContent
+{
+  text-align: center;
+}
