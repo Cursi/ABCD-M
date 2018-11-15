@@ -9,6 +9,11 @@ export class TestComponent implements OnInit {
 
   constructor() { }
 
+  onScroll()
+  {
+    console.log("scrolled");
+  }
+
   ngOnInit() {
   }
 
