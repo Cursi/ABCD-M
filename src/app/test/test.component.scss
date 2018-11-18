@@ -4,7 +4,7 @@
   // margin-left: 34px;
   // margin-top:8px;
   // margin-bottom: 4px !important;
-  // font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .mat-radio-button.mat-accent .mat-radio-inner-circle, .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple), .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple, .mat-radio-button.mat-accent:active .mat-radio-persistent-ripple
@@ -14,14 +14,39 @@
 
 .questionCard
 {
+  padding-left: 0px;
+  padding-right: 0px;
   margin-bottom: 20px;
   margin-top: 20px;
   text-align: center;
-
 }
 
 .centeredCardContent mat-radio-group
 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+@media only screen and (max-width: 900px)
+{
+  .questionCard
+  {
+    text-align: left;
+  }
+
+  .centeredCardContent mat-radio-group
+  {
+      grid-template-columns: 1fr;
+      margin-left: 30px;
+  }
+
+  .centeredCardContent mat-radio-button
+  {
+    margin-bottom: 10px;
+  }
+
+  .centeredCardContent mat-radio-button:last-Child
+  {
+    margin-bottom: 0;
+  }
 }

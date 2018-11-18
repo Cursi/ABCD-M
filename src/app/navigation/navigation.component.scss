@@ -29,3 +29,41 @@ header
         }
     }
 }
+
+.mobileNavigation
+{
+  display: none;
+}
+
+@media only screen and (max-width: 900px)
+{
+  .desktopNavigation
+  {
+    display: none;
+  }
+
+  .mobileNavigation
+  {
+    display: block;
+  }
+
+  a.logo
+  {
+    font-size: 18px;
+    padding: 0 !important;
+  }
+
+  a {
+      padding: 14px !important;
+
+      &:hover
+      {
+        background: #008B8B !important;
+      }
+  }
+
+  nav
+  {
+    margin-right: 28px !important;
+  }
+}

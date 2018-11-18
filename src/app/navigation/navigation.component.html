@@ -1,11 +1,20 @@
 <header>
   <div class="container">
     <a routerLink="/" class="logo">{{ appTitle }}</a>
-    <nav>
+
+    <nav [hidden]="isMobile" class="desktopNavigation">
       <ul>
         <li><a routerLink="/">Despre</a></li>
         <li><a routerLink="/test">Test</a></li>
         <li><a routerLink="/results">Rezultate</a></li>
+      </ul>
+    </nav>
+
+    <nav class="mobileNavigation">
+      <ul>
+        <li><a routerLink="/"><i class="material-icons">info</i></a></li>
+        <li><a routerLink="/test"><i class="material-icons">question_answer</i></a></li>
+        <li><a routerLink="/results"><i class="material-icons">insert_chart</i></a></li>
       </ul>
     </nav>
   </div>

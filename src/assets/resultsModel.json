@@ -1,0 +1,132 @@
+[
+  {
+    "Categorie" : "Extraversie",
+    "Tipologii" :
+    [
+      {
+        "Nume" : "Activism",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Optimism",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Umor",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Abilitate interpersonala",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Afirmare personala",
+        "Valoare" : 0
+      }
+    ]
+  },
+  {
+    "Categorie" : "Maturitate",
+    "Tipologii" :
+    [
+      {
+        "Nume" : "Respect",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Adaptare",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Prietenie",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Forta inhibitiei",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Forta eului",
+        "Valoare" : 0
+      }
+    ]
+  },
+  {
+    "Categorie" : "Agreabilitate",
+    "Tipologii" :
+    [
+      {
+        "Nume" : "Altruism",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Romantism",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Caldura afectiva",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Empatie",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Onestitiate",
+        "Valoare" : 0
+      }
+    ]
+  },
+  {
+    "Categorie" : "Constiinciozitate",
+    "Tipologii" :
+    [
+      {
+        "Nume" : "Vointa",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Spirit de perfectiune",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Rationalitate",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Planificare",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Auto-disciplina",
+        "Valoare" : 0
+      }
+    ]
+  },
+  {
+    "Categorie" : "Autoactualizare",
+    "Tipologii" :
+    [
+      {
+        "Nume" : "Aprofundare",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Toleranta",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Rafinare",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Independenta",
+        "Valoare" : 0
+      },
+      {
+        "Nume" : "Creativitate",
+        "Valoare" : 0
+      }
+    ]
+  }
+]
