@@ -1,3 +1,10 @@
-<p>
-  results works!
-</p>
+<div [hidden]="isTestFinished">
+  <mat-card id="resultCard">
+    <mat-card-header id="resultsCardHeader">
+      <mat-card-title id="resultsCardTitle">Pentru a iti vedea rezultatele trebuie mai intai sa completezi testul.</mat-card-title>
+    </mat-card-header>
+  </mat-card>
+
+  <br>
+  <button mat-raised-button class="customBtn" routerLink="/test">Incepe testul</button>
+</div>

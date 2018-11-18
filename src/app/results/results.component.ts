@@ -9,11 +9,13 @@ import { DataService } from '../data.service';
 })
 export class ResultsComponent implements OnInit
 {
-  constructor(private data: DataService) {}
+  constructor(private data: DataService) { }
+
+  isTestFinished: boolean = false;
 
   ngOnInit()
   {
     console.log(this.data.results);
+    if(this.data.results != null) isTestFinished = true;
   }
-
 }
