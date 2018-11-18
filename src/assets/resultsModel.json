@@ -1,131 +1,131 @@
 [
   {
-    "Categorie" : "Extraversie",
-    "Tipologii" :
+    "category" : "Extraversie",
+    "types" :
     [
       {
-        "Nume" : "Activism",
-        "Valoare" : 0
+        "name" : "Activism",
+        "score" : 0
       },
       {
-        "Nume" : "Optimism",
-        "Valoare" : 0
+        "name" : "Optimism",
+        "score" : 0
       },
       {
-        "Nume" : "Umor",
-        "Valoare" : 0
+        "name" : "Umor",
+        "score" : 0
       },
       {
-        "Nume" : "Abilitate interpersonala",
-        "Valoare" : 0
+        "name" : "Abilitate interpersonala",
+        "score" : 0
       },
       {
-        "Nume" : "Afirmare personala",
-        "Valoare" : 0
+        "name" : "Afirmare personala",
+        "score" : 0
       }
     ]
   },
   {
-    "Categorie" : "Maturitate",
-    "Tipologii" :
+    "category" : "Maturitate",
+    "types" :
     [
       {
-        "Nume" : "Respect",
-        "Valoare" : 0
+        "name" : "Respect",
+        "score" : 0
       },
       {
-        "Nume" : "Adaptare",
-        "Valoare" : 0
+        "name" : "Adaptare",
+        "score" : 0
       },
       {
-        "Nume" : "Prietenie",
-        "Valoare" : 0
+        "name" : "Prietenie",
+        "score" : 0
       },
       {
-        "Nume" : "Forta inhibitiei",
-        "Valoare" : 0
+        "name" : "Forta inhibitiei",
+        "score" : 0
       },
       {
-        "Nume" : "Forta eului",
-        "Valoare" : 0
+        "name" : "Forta eului",
+        "score" : 0
       }
     ]
   },
   {
-    "Categorie" : "Agreabilitate",
-    "Tipologii" :
+    "category" : "Agreabilitate",
+    "types" :
     [
       {
-        "Nume" : "Altruism",
-        "Valoare" : 0
+        "name" : "Altruism",
+        "score" : 0
       },
       {
-        "Nume" : "Romantism",
-        "Valoare" : 0
+        "name" : "Romantism",
+        "score" : 0
       },
       {
-        "Nume" : "Caldura afectiva",
-        "Valoare" : 0
+        "name" : "Caldura afectiva",
+        "score" : 0
       },
       {
-        "Nume" : "Empatie",
-        "Valoare" : 0
+        "name" : "Empatie",
+        "score" : 0
       },
       {
-        "Nume" : "Onestitiate",
-        "Valoare" : 0
+        "name" : "Onestitiate",
+        "score" : 0
       }
     ]
   },
   {
-    "Categorie" : "Constiinciozitate",
-    "Tipologii" :
+    "category" : "Constiinciozitate",
+    "types" :
     [
       {
-        "Nume" : "Vointa",
-        "Valoare" : 0
+        "name" : "Vointa",
+        "score" : 0
       },
       {
-        "Nume" : "Spirit de perfectiune",
-        "Valoare" : 0
+        "name" : "Spirit de perfectiune",
+        "score" : 0
       },
       {
-        "Nume" : "Rationalitate",
-        "Valoare" : 0
+        "name" : "Rationalitate",
+        "score" : 0
       },
       {
-        "Nume" : "Planificare",
-        "Valoare" : 0
+        "name" : "Planificare",
+        "score" : 0
       },
       {
-        "Nume" : "Auto-disciplina",
-        "Valoare" : 0
+        "name" : "Auto-disciplina",
+        "score" : 0
       }
     ]
   },
   {
-    "Categorie" : "Autoactualizare",
-    "Tipologii" :
+    "category" : "Autoactualizare",
+    "types" :
     [
       {
-        "Nume" : "Aprofundare",
-        "Valoare" : 0
+        "name" : "Aprofundare",
+        "score" : 0
       },
       {
-        "Nume" : "Toleranta",
-        "Valoare" : 0
+        "name" : "Toleranta",
+        "score" : 0
       },
       {
-        "Nume" : "Rafinare",
-        "Valoare" : 0
+        "name" : "Rafinare",
+        "score" : 0
       },
       {
-        "Nume" : "Independenta",
-        "Valoare" : 0
+        "name" : "Independenta",
+        "score" : 0
       },
       {
-        "Nume" : "Creativitate",
-        "Valoare" : 0
+        "name" : "Creativitate",
+        "score" : 0
       }
     ]
   }

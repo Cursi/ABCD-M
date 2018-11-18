@@ -1,152 +1,602 @@
 [
-    "Intotdeauna am fost o persoana dinamica.",
-    "Uneori s-a spus ca cunt meschin.",
-    "Sunt intelegator ci ceilalti.",
-    "Ma caracterizeaza in primul rand vointa.",
-    "Caut sa aflu sensul ascuns din spatele lucrurilor.",
-    "De felul meu sunt pessimist.",
-    "Ceilalti ma considera un rebel.",
-    "Cel mai adesea sunt visitor.",
-    "Pentru ca vreau sa fac lucrurile mereu mai bine multi ma considera perfectionist.",
-    "Nu-mi place sa port dusmanie.",
-    "Imi place sa glumesc.",
-    "Doar daca sunt autoritar obtin respectful celor din jur.",
-    "Sunt tandru cu cei din jur.",
-    "Reusesc sa fiu obiectiv aproape in orice situatie.",
-    "Omul trebuie sa fie smecher pentru a reusi in viata.",
-    "Devin abil cand interesele mele se afla in joc.",
-    "Adesea sunt prea usuratic.",
-    "Vibrez usor la tot ceea ce se petrece in jurul meu.",
-    "Nu imi place sa risipesc nimic pentru ca nu sunt risipitor.",
-    "Fac fata cu usurinta chiar si unor situatii contradictorii.",
-    "Ma consider sclipitor.",
-    "Sunt o persoana mofturoasa.",
-    "Onestitatea sta la baza caracterului meu.",
-    "De obicei raman calm.",
-    "Imi place sa-mi las libera fantezia.",
-    "Oamenii ma considera vioi.",
-    "Ceilalti spun ca sunt profitor.",
-    "Raman fidel prietenilor in orice imprejurare.",
-    "Sunt un tip darz.",
-    "Observ cu usurinta nuante care le scapa altora.",
-    "Cel mai adesea sunt trist.",
-    "Ma port mereu ca un rasculat.",
-    "Sunt o fire romantica.",
-    "Ceilalti ma considera un tip profund.",
-    "Nu ma consider perfect.",
-    "Am simtul umorului.",
-    "Sunt adesea poruncitor uc ceilalti.",
-    "Sunt o persoana galagioasa.",
-    "Ma consider realist.",
-    "Reusesc sa-I inteleg mai bine pe altii punandu-ma in pielea lor.",
-    "Stiu sa fiu siret atunci cand trebuie.",
-    "Imi da adesa de furca faptul ca sunt nestapanit.",
-    "Sunt mai atent la altii decat la mine.",
-    "In general ,am o fire economa.",
-    "In genere accept sa raspund pentru pentru ceea ce fac.",
-    "Mi se spune de obicei ca sunt prea reformator.",
-    "Am fost si am ramas un nazuros.",
-    "Sunt vazut de ceilalti ca un tip moral.",
-    "Prietenii spun ca sunt o fire linistita.",
-    "Am un spirit liber,deloc greoi.",
-    "Sunt un vorbaret din fire.",
-    "Mi se spune adesea ca sunt rauvoitor.",
-    "Deseori sar in ajutorul celorlalti.",
-    "Sunt perseverant in ceea ce fac.",
-    "Carcaterul iscoditor ma ajuta sa sesizez amanunte pe care altii nu le baga de seama.",
-    "Stiu sa ma bucur de viata.",
-    "Intotdeauna ma port ca un razvratit.",
-    "Sunt un sentimental incurabil.",
-    "Nu am fost niciodata considerat superficial.",
-    "In general ,sunt tolerant.",
-    "Prietenii imi spun ca sunt un om jovial.",
-    "Unii ma considera intepat.",
-    "Duiosia este felul meu de a ma exprima.",
-    "Sunt o persoana rationala.",
-    "Imi place muzica si pot spune ca sunt un meloman.",
-    "Mai ales in situatii limita sunt ager.",
-    "Ma avant in actiuni fara sa ma gandesc prea mult dinainte.",
-    "Imi place sa iau deciziile bazandu-ma pe intuitiile despre ceilalti.",
-    "Nu ma arunc asa usor cand este vorba sa cheltuiesc.",
-    "Nu ma sfiesc sa spun lucrurilor pe nume.",
-    "Sunt privit ca o persoana care resuseste in viata.",
-    "Se spune despre mine ca sunt rasfatat.",
-    "Ma carcaterizeaza spiritual dreptaii.",
-    "Sunt un tip infranat ,imi place sa-mi controlez reactiile.",
-    "Sensul vietii mele este sa creez.",
-    "Am fost adesea caracterizat ca un tip dezghetat.",
-    "Din cand in cand imi place sa-mi bat joc de cei din jur.",
-    "Am o fire prietenoasa.",
-    "Odata ce am stabilit ceva merg hotarat pe lini aleasa.",
-    "Sunt o fire analitica,imi place sa despic firul in patru.",
-    "Imi place sa traiesc din plin viata.",
-    "Cel mai adesea ma manifest protestatar.",
-    "Traiesc mult prin ceea ce simt.",
-    "Cer mult de la mine.",
-    "Imi place sa-I manipulez pe cei din jur.",
-    "Veselia ma carcaterizeaza.",
-    "Sunt un tip mandru,vreau sa mi se recunoasca ce-I al meu.",
-    "De obicei sunt prea mofturos.",
-    "Prietenii ma considera un tip cerebral.",
-    "Ma simt o presoana matura intelectual.",
-    "Cred ca sunt un om perspicace in situatii interpersinale.",
-    "Imi ies usor din fire cu toate ca ulterior regret.",
-    "Ma influenteaza ceea ce spun si fac altii.",
-    "Imi place sa fiu independent ,sa nu ma bazez pe altii.",
-    "Sunt un om cumpatat cu bunurile mele.",
-    "Sunt considerat un tip modern.",
-    "Tot timpul cer cate ceva celor din jurul meu.",
-    "Oamneii gasesc ca sunt un om sincer.",
-    "Am tendinta sa fiu cumpatat in ceea ce fac.",
-    "Am o imaginatie vie.",
-    "Sun genul de om activ,nu pot sa stau o clipa locului.",
-    "Mi s-a intamplat sa fiu privit ca un tip josnic.",
-    "Intotdeauna sunt politicos cu ceilalti.",
-    "Nu-mi sta in fire sa fiu delasator.",
-    "Imi place sa cecetez lucrurile misterioase.",
-    "Nu sunt o fire ambitioasa.",
-    "Ceilalti ma considera incomod.",
-    "In cele mai multe imprejurari sunt sensibil.",
-    "In tot ceea ce fac sunt riguros.",
-    "Mi se intampla adesea sa ii dezprob pe ceilalti.",
-    "Sut flexibil,ma adaptez usor.",
-    "Ca sa obtin ceea ce doresc sunt gata sa ma cert.",
-    "Nu sunt dur niciodata cu ceilalti.",
-    "Sunt vigilant,vreau sa inteleg mereu ceea ce se va intampla.",
-    "Apreciez persoanele cu gusturi alese.",
-    "Sunt un om capabil.",
-    "Caracterul irascibil imi joaca feste.",
-    "Ma framanta adesea o multime de ganduri despre cei din jur.",
-    "Ceilalti ma considera un om calculate.",
-    "Prefer sa imi asum responsabilitate in situatiile in care trebuie hotarat un lucru.",
-    "Gasesc in genereal solutii ingenioase problemelor cu care ma confront.",
-    "Sunt tafnos.",
-    "Prietenii ma considera modest.",
-    "Sunt o persoana echilibrata.",
-    "Imi place sa misc lucrurile cand gandesc sau actionez.",
-    "Oamenii vad in mine persoana cu initiative.",
-    "Nu pierd nicio ocazie pentru a baga cate un fitil.",
-    "Sunt amabil din fire.",
-    "Eficienta este una din calitatile mele.",
-    "Sunt multe lucruri la oameni care imi starnesc curiozitatea.",
-    "Reusesc mereu sa raman senin.",
-    "Sun agresiv din fire.",
-    "De multe ori ma las cuprins de nostalgie.",
-    "Sunt genul studios.",
-    "Consider ca in lume totul e relative.",
-    "In relatiile cu ceilalti sunt o persoana deschisa si haioasa.",
-    "In general am tendinta sa ii pedepsesc rapid pe cei din jur.",
-    "Imi place sa-I ocrotesc pe ceilalti.",
-    "Sunt mereu constient de ceea ce se petrece in jur.",
-    "Obisnuiesc sa-mi pun multe intrebari.",
-    "Particip cu usurinta la toate evenimentele noi.",
-    "Am tendinta de a-I jigni prea usor pe ceilalti.",
-    "De obicei ma sperie situatiile de viata ale altora.",
-    "Imi place sa chibzuiesc de doua ori inainte de a ma avanta.",
-    "Nu sunt pregatit sa ma confrunt cu situatii ambigui.",
-    "Se poate spune despre mine ca sunt un spirit viu.",
-    "Prietenii ma considera laudaros.",
-    "Sunt omenos.",
-    "Familia ma considera un om care nu se pierde usor cu firea.",
-    "Imi place sa particip la crearea de lucruri noi pe lume."
+  {
+		"data": "Intotdeauna am fost o persoana dinamica.",
+		"type": "E1"
+	},
+  {
+		"data": "Uneori s-a spus ca cunt meschin.",
+		"type": "M1"
+	},
+  {
+		"data": "Sunt intelegator ci ceilalti.",
+		"type": "A1"
+	},
+  {
+		"data": "Ma caracterizeaza in primul rand vointa.",
+		"type": "C1"
+	},
+  {
+		"data": "Caut sa aflu sensul ascuns din spatele lucrurilor.",
+		"type": "Au1"
+	},
+  {
+		"data": "De felul meu sunt pessimist.",
+		"type": "E2"
+	},
+  {
+		"data": "Ceilalti ma considera un rebel.",
+		"type": "M2"
+	},
+  {
+		"data": "Cel mai adesea sunt visitor.",
+		"type": "A2"
+	},
+  {
+		"data": "Pentru ca vreau sa fac lucrurile mereu mai bine multi ma considera perfectionist.",
+		"type": "C2"
+	},
+  {
+		"data": "Nu-mi place sa port dusmanie.",
+		"type": "Au2"
+	},
+  {
+		"data": "Imi place sa glumesc.",
+		"type": "E3"
+	},
+  {
+		"data": "Doar daca sunt autoritar obtin respectful celor din jur.",
+		"type": "M3"
+	},
+  {
+		"data": "Sunt tandru cu cei din jur.",
+		"type": "A3"
+	},
+  {
+		"data": "Reusesc sa fiu obiectiv aproape in orice situatie.",
+		"type": "C3"
+	},
+  {
+		"data": "Omul trebuie sa fie smecher pentru a reusi in viata.",
+		"type": "Au3"
+	},
+  {
+		"data": "Devin abil cand interesele mele se afla in joc.",
+		"type": "E4"
+	},
+  {
+		"data": "Adesea sunt prea usuratic.",
+		"type": "M4"
+	},
+  {
+		"data": "Vibrez usor la tot ceea ce se petrece in jurul meu.",
+		"type": "A4"
+	},
+  {
+		"data": "Nu imi place sa risipesc nimic pentru ca nu sunt risipitor.",
+		"type": "C4"
+	},
+  {
+		"data": "Fac fata cu usurinta chiar si unor situatii contradictorii.",
+		"type": "Au4"
+	},
+  {
+		"data": "Ma consider sclipitor.",
+		"type": "E5"
+	},
+  {
+		"data": "Sunt o persoana mofturoasa.",
+		"type": "M5"
+	},
+  {
+		"data": "Onestitatea sta la baza caracterului meu.",
+		"type": "A5"
+	},
+  {
+		"data": "De obicei raman calm.",
+		"type": "C5"
+	},
+  {
+		"data": "Imi place sa-mi las libera fantezia.",
+		"type": "Au5"
+	},
+  {
+		"data": "Oamenii ma considera vioi.",
+		"type": "E1"
+	},
+  {
+		"data": "Ceilalti spun ca sunt profitor.",
+		"type": "M1"
+	},
+  {
+		"data": "Raman fidel prietenilor in orice imprejurare.",
+		"type": "A1"
+	},
+  {
+		"data": "Sunt un tip darz.",
+		"type": "C1"
+	},
+  {
+		"data": "Observ cu usurinta nuante care le scapa altora.",
+		"type": "Au1"
+	},
+  {
+		"data": "Cel mai adesea sunt trist.",
+		"type": "E2"
+	},
+  {
+		"data": "Ma port mereu ca un rasculat.",
+		"type": "M2"
+	},
+  {
+		"data": "Sunt o fire romantica.",
+		"type": "A2"
+	},
+  {
+		"data": "Ceilalti ma considera un tip profund.",
+		"type": "C2"
+	},
+  {
+		"data": "Nu ma consider perfect.",
+		"type": "Au2"
+	},
+  {
+		"data": "Am simtul umorului.",
+		"type": "E3"
+	},
+  {
+		"data": "Sunt adesea poruncitor uc ceilalti.",
+		"type": "M3"
+	},
+  {
+		"data": "Sunt o persoana galagioasa.",
+		"type": "A3"
+	},
+  {
+		"data": "Ma consider realist.",
+		"type": "C3"
+	},
+  {
+		"data": "Reusesc sa-I inteleg mai bine pe altii punandu-ma in pielea lor.",
+		"type": "Au3"
+	},
+  {
+		"data": "Stiu sa fiu siret atunci cand trebuie.",
+		"type": "E4"
+	},
+  {
+		"data": "Imi da adesa de furca faptul ca sunt nestapanit.",
+		"type": "M4"
+	},
+  {
+		"data": "Sunt mai atent la altii decat la mine.",
+		"type": "A4"
+	},
+  {
+		"data": "In general ,am o fire economa.",
+		"type": "C4"
+	},
+  {
+		"data": "In genere accept sa raspund pentru pentru ceea ce fac.",
+		"type": "Au4"
+	},
+  {
+		"data": "Mi se spune de obicei ca sunt prea reformator.",
+		"type": "E5"
+	},
+  {
+		"data": "Am fost si am ramas un nazuros.",
+		"type": "M5"
+	},
+  {
+		"data": "Sunt vazut de ceilalti ca un tip moral.",
+		"type": "A5"
+	},
+  {
+		"data": "Prietenii spun ca sunt o fire linistita.",
+		"type": "C5"
+	},
+  {
+		"data": "Am un spirit liber,deloc greoi.",
+		"type": "Au5"
+	},
+  {
+		"data": "Sunt un vorbaret din fire.",
+		"type": "E1"
+	},
+  {
+		"data": "Mi se spune adesea ca sunt rauvoitor.",
+		"type": "M1"
+	},
+  {
+		"data": "Deseori sar in ajutorul celorlalti.",
+		"type": "A1"
+	},
+  {
+		"data": "Sunt perseverant in ceea ce fac.",
+		"type": "C1"
+	},
+  {
+		"data": "Carcaterul iscoditor ma ajuta sa sesizez amanunte pe care altii nu le baga de seama.",
+		"type": "Au1"
+	},
+  {
+		"data": "Stiu sa ma bucur de viata.",
+		"type": "E2"
+	},
+  {
+		"data": "Intotdeauna ma port ca un razvratit.",
+		"type": "M2"
+	},
+  {
+		"data": "Sunt un sentimental incurabil.",
+		"type": "A2"
+	},
+  {
+		"data": "Nu am fost niciodata considerat superficial.",
+		"type": "C2"
+	},
+  {
+		"data": "In general ,sunt tolerant.",
+		"type": "Au2"
+	},
+  {
+		"data": "Prietenii imi spun ca sunt un om jovial.",
+		"type": "E3"
+	},
+  {
+		"data": "Unii ma considera intepat.",
+		"type": "M3"
+	},
+  {
+		"data": "Duiosia este felul meu de a ma exprima.",
+		"type": "A3"
+	},
+  {
+		"data": "Sunt o persoana rationala.",
+		"type": "C3"
+	},
+  {
+		"data": "Imi place muzica si pot spune ca sunt un meloman.",
+		"type": "Au3"
+	},
+  {
+		"data": "Mai ales in situatii limita sunt ager.",
+		"type": "E4"
+	},
+  {
+		"data": "Ma avant in actiuni fara sa ma gandesc prea mult dinainte.",
+		"type": "M4"
+	},
+  {
+		"data": "Imi place sa iau deciziile bazandu-ma pe intuitiile despre ceilalti.",
+		"type": "A4"
+	},
+  {
+		"data": "Nu ma arunc asa usor cand este vorba sa cheltuiesc.",
+		"type": "C4"
+	},
+  {
+		"data": "Nu ma sfiesc sa spun lucrurilor pe nume.",
+		"type": "Au4"
+	},
+  {
+		"data": "Sunt privit ca o persoana care resuseste in viata.",
+		"type": "E5"
+	},
+  {
+		"data": "Se spune despre mine ca sunt rasfatat.",
+		"type": "M5"
+	},
+  {
+		"data": "Ma carcaterizeaza spiritual dreptaii.",
+		"type": "A5"
+	},
+  {
+		"data": "Sunt un tip infranat ,imi place sa-mi controlez reactiile.",
+		"type": "C5"
+	},
+  {
+		"data": "Sensul vietii mele este sa creez.",
+		"type": "Au5"
+	},
+  {
+		"data": "Am fost adesea caracterizat ca un tip dezghetat.",
+		"type": "E1"
+	},
+  {
+		"data": "Din cand in cand imi place sa-mi bat joc de cei din jur.",
+		"type": "M1"
+	},
+  {
+		"data": "Am o fire prietenoasa.",
+		"type": "A1"
+	},
+  {
+		"data": "Odata ce am stabilit ceva merg hotarat pe lini aleasa.",
+		"type": "C1"
+	},
+  {
+		"data": "Sunt o fire analitica,imi place sa despic firul in patru.",
+		"type": "Au1"
+	},
+  {
+		"data": "Imi place sa traiesc din plin viata.",
+		"type": "E2"
+	},
+  {
+		"data": "Cel mai adesea ma manifest protestatar.",
+		"type": "M2"
+	},
+  {
+		"data": "Traiesc mult prin ceea ce simt.",
+		"type": "A2"
+	},
+  {
+		"data": "Cer mult de la mine.",
+		"type": "C2"
+	},
+  {
+		"data": "Imi place sa-I manipulez pe cei din jur.",
+		"type": "Au2"
+	},
+  {
+		"data": "Veselia ma carcaterizeaza.",
+		"type": "E3"
+	},
+  {
+		"data": "Sunt un tip mandru,vreau sa mi se recunoasca ce-I al meu.",
+		"type": "M3"
+	},
+  {
+		"data": "De obicei sunt prea mofturos.",
+		"type": "A3"
+	},
+  {
+		"data": "Prietenii ma considera un tip cerebral.",
+		"type": "C3"
+	},
+  {
+		"data": "Ma simt o presoana matura intelectual.",
+		"type": "Au3"
+	},
+  {
+		"data": "Cred ca sunt un om perspicace in situatii interpersinale.",
+		"type": "E4"
+	},
+  {
+		"data": "Imi ies usor din fire cu toate ca ulterior regret.",
+		"type": "M4"
+	},
+  {
+		"data": "Ma influenteaza ceea ce spun si fac altii.",
+		"type": "A4"
+	},
+  {
+		"data": "Imi place sa fiu independent ,sa nu ma bazez pe altii.",
+		"type": "C4"
+	},
+  {
+		"data": "Sunt un om cumpatat cu bunurile mele.",
+		"type": "Au4"
+	},
+  {
+		"data": "Sunt considerat un tip modern.",
+		"type": "E5"
+	},
+  {
+		"data": "Tot timpul cer cate ceva celor din jurul meu.",
+		"type": "M5"
+	},
+  {
+		"data": "Oamneii gasesc ca sunt un om sincer.",
+		"type": "A5"
+	},
+  {
+		"data": "Am tendinta sa fiu cumpatat in ceea ce fac.",
+		"type": "C5"
+	},
+  {
+		"data": "Am o imaginatie vie.",
+		"type": "Au5"
+	},
+  {
+		"data": "Sun genul de om activ,nu pot sa stau o clipa locului.",
+		"type": "E1"
+	},
+  {
+		"data": "Mi s-a intamplat sa fiu privit ca un tip josnic.",
+		"type": "M1"
+	},
+  {
+		"data": "Intotdeauna sunt politicos cu ceilalti.",
+		"type": "A1"
+	},
+  {
+		"data": "Nu-mi sta in fire sa fiu delasator.",
+		"type": "C1"
+	},
+  {
+		"data": "Imi place sa cecetez lucrurile misterioase.",
+		"type": "Au1"
+	},
+  {
+		"data": "Nu sunt o fire ambitioasa.",
+		"type": "E2"
+	},
+  {
+		"data": "Ceilalti ma considera incomod.",
+		"type": "M2"
+	},
+  {
+		"data": "In cele mai multe imprejurari sunt sensibil.",
+		"type": "A2"
+	},
+  {
+		"data": "In tot ceea ce fac sunt riguros.",
+		"type": "C2"
+	},
+  {
+		"data": "Mi se intampla adesea sa ii dezprob pe ceilalti.",
+		"type": "Au2"
+	},
+  {
+		"data": "Sut flexibil,ma adaptez usor.",
+		"type": "E3"
+	},
+  {
+		"data": "Ca sa obtin ceea ce doresc sunt gata sa ma cert.",
+		"type": "M3"
+	},
+  {
+		"data": "Nu sunt dur niciodata cu ceilalti.",
+		"type": "A3"
+	},
+  {
+		"data": "Sunt vigilant,vreau sa inteleg mereu ceea ce se va intampla.",
+		"type": "C3"
+	},
+  {
+		"data": "Apreciez persoanele cu gusturi alese.",
+		"type": "Au3"
+	},
+  {
+		"data": "Sunt un om capabil.",
+		"type": "E4"
+	},
+  {
+		"data": "Caracterul irascibil imi joaca feste.",
+		"type": "M4"
+	},
+  {
+		"data": "Ma framanta adesea o multime de ganduri despre cei din jur.",
+		"type": "A4"
+	},
+  {
+		"data": "Ceilalti ma considera un om calculate.",
+		"type": "C4"
+	},
+  {
+		"data": "Prefer sa imi asum responsabilitate in situatiile in care trebuie hotarat un lucru.",
+		"type": "Au4"
+	},
+  {
+		"data": "Gasesc in genereal solutii ingenioase problemelor cu care ma confront.",
+		"type": "E5"
+	},
+  {
+		"data": "Sunt tafnos.",
+		"type": "M5"
+	},
+  {
+		"data": "Prietenii ma considera modest.",
+		"type": "A5"
+	},
+  {
+		"data": "Sunt o persoana echilibrata.",
+		"type": "C5"
+	},
+  {
+		"data": "Imi place sa misc lucrurile cand gandesc sau actionez.",
+		"type": "Au5"
+	},
+  {
+		"data": "Oamenii vad in mine persoana cu initiative.",
+		"type": "E1"
+	},
+  {
+		"data": "Nu pierd nicio ocazie pentru a baga cate un fitil.",
+		"type": "M1"
+	},
+  {
+		"data": "Sunt amabil din fire.",
+		"type": "A1"
+	},
+  {
+		"data": "Eficienta este una din calitatile mele.",
+		"type": "C1"
+	},
+  {
+		"data": "Sunt multe lucruri la oameni care imi starnesc curiozitatea.",
+		"type": "Au1"
+	},
+  {
+		"data": "Reusesc mereu sa raman senin.",
+		"type": "E2"
+	},
+  {
+		"data": "Sun agresiv din fire.",
+		"type": "M2"
+	},
+  {
+		"data": "De multe ori ma las cuprins de nostalgie.",
+		"type": "A2"
+	},
+  {
+		"data": "Sunt genul studios.",
+		"type": "C2"
+	},
+  {
+		"data": "Consider ca in lume totul e relative.",
+		"type": "Au2"
+	},
+  {
+		"data": "In relatiile cu ceilalti sunt o persoana deschisa si haioasa.",
+		"type": "E3"
+	},
+  {
+		"data": "In general am tendinta sa ii pedepsesc rapid pe cei din jur.",
+		"type": "M3"
+	},
+  {
+		"data": "Imi place sa-I ocrotesc pe ceilalti.",
+		"type": "A3"
+	},
+  {
+		"data": "Sunt mereu constient de ceea ce se petrece in jur.",
+		"type": "C3"
+	},
+  {
+		"data": "Obisnuiesc sa-mi pun multe intrebari.",
+		"type": "Au3"
+	},
+  {
+		"data": "Particip cu usurinta la toate evenimentele noi.",
+		"type": "E4"
+	},
+  {
+		"data": "Am tendinta de a-I jigni prea usor pe ceilalti.",
+		"type": "M4"
+	},
+  {
+		"data": "De obicei ma sperie situatiile de viata ale altora.",
+		"type": "A4"
+	},
+  {
+		"data": "Imi place sa chibzuiesc de doua ori inainte de a ma avanta.",
+		"type": "C4"
+	},
+  {
+		"data": "Nu sunt pregatit sa ma confrunt cu situatii ambigui.",
+		"type": "Au4"
+	},
+  {
+		"data": "Se poate spune despre mine ca sunt un spirit viu.",
+		"type": "E5"
+	},
+  {
+		"data": "Prietenii ma considera laudaros.",
+		"type": "M5"
+	},
+  {
+		"data": "Sunt omenos.",
+		"type": "A5"
+	},
+  {
+		"data": "Familia ma considera un om care nu se pierde usor cu firea.",
+		"type": "C5"
+	},
+  {
+		"data": "Imi place sa particip la crearea de lucruri noi pe lume.",
+		"type": "Au5"
+	}
 ]

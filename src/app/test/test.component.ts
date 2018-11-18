@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './test.component.html',
   styleUrls: ['./test.component.scss']
 })
+
 export class TestComponent implements OnInit
 {
   constructor() { }
@@ -41,21 +42,26 @@ export class TestComponent implements OnInit
   {
     let questionCards = Array.from(document.getElementsByClassName("questionCard"));
 
-    questionCards.forEach((item) =>
+    questionCards.forEach((item, index) =>
     {
-      let questionType = Array.from(item.getElementsByClassName("mat-card-title"))[0].getAttribute("alt");
-      // let radioValue =
-      // console.log(document.querySelector('input[name="' + i + '"]:checked'););
-      console.log(item.getElementsByClassName("mat-radio-button").querySelector(""));
-    })
+      const checkedInput = document.querySelector('input[name="' + index + '"]:checked');
+      const checkedRadio = document.getElementById(checkedInput.id.substring(0, checkedInput.id.length - 6));
 
-    // console.log(input.parentElement.parentElement.parentElement.getAttribute("value")); // :), material radios are pure garbage
-    //
-    // for(var i=0; i<149; i++)
-    // {
-    //   let currentInput = document.querySelector('input[name="' + i + '"]:checked');
-    //   let currentValue = currentInput.parentElement.parentElement.parentElement.getAttribute("value");
-    // }
+      let answerValue = parseInt(checkedRadio.getAttribute("value"));
+      let questionType = this.loadedQuestions[index].type;
+
+      for(var i in this.results)
+      {
+        let resultPreffix = this.results[i].category.substring(0, questionType.length - 1);
+        let questionTypePreffix = questionType.substring(0, questionType.length - 1);
+
+        if(resultPreffix == questionTypePreffix)
+        {
+          this.results[i].types[questionType[questionType.length - 1] -1].score += answerValue;
+          break;
+        }
+      }
+    });
   }
 
   ngOnInit()

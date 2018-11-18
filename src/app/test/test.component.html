@@ -1,7 +1,7 @@
 <div *ngFor= "let question of loadedQuestions; let i = index;">
   <mat-card class="questionCard">
     <mat-card-header>
-      <mat-card-title alt="E4">{{i+1}}.{{question}}</mat-card-title>
+      <mat-card-title>{{i+1}}.{{question.data}}</mat-card-title>
     </mat-card-header>
 
     <mat-card-content class="centeredCardContent">
