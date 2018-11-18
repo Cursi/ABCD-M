@@ -28,7 +28,7 @@ import { InfiniteScrollModule } from 'ngx-infinite-scroll';
     MaterialModule,
     InfiniteScrollModule
   ],
-  providers: [],
+  providers: [TestComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -16,6 +16,6 @@
   </mat-card>
 </div>
 
-<button (click)="ComputeResults()" [disabled]="areQuestionsNotLoaded" mat-raised-button class="customBtn" routerLink="/results">Finalizeaza testul</button>
+<button (click)="ComputeResults()" [disabled]="areQuestionsNotLoaded" mat-raised-button class="customBtn">Finalizeaza testul</button>
 
 <div infiniteScroll [infiniteScrollDistance]="scrollFactor" [infiniteScrollThrottle]="200" (scrolled)="LoadQuestions()"></div>
