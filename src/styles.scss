@@ -106,6 +106,12 @@ mat-card
     overflow-x: hidden;
   }
 
+  section
+  {
+    width: calc(100% - 30px);
+    padding: 15px;
+  }
+
   .container
   {
     width: 100%;
@@ -116,4 +122,10 @@ mat-card
 {
   justify-content: center !important;
   font-size: 18px;
+}
+
+.mat-dialog-container
+{
+  width: 800px !important;
+  height: 320px !important;
 }

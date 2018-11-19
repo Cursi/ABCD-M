@@ -1,0 +1,19 @@
+#subCanvasContainer
+{
+  width: 100%;
+  height: 100%;
+}
+
+#subCanvas
+{
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 800px)
+{
+  #subCanvas
+  {
+    padding-left: 0;
+    margin-left: -18px;
+  }
+}

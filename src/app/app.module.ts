@@ -12,6 +12,7 @@ import { ResultsComponent } from './results/results.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule} from './material';
 import { InfiniteScrollModule } from 'ngx-infinite-scroll';
+import { ModalComponent } from './modal/modal.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { InfiniteScrollModule } from 'ngx-infinite-scroll';
     NavigationComponent,
     AboutComponent,
     TestComponent,
-    ResultsComponent
+    ResultsComponent,
+    ModalComponent,
   ],
   imports: [
     BrowserModule,
@@ -29,6 +31,7 @@ import { InfiniteScrollModule } from 'ngx-infinite-scroll';
     InfiniteScrollModule
   ],
   providers: [TestComponent],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [ModalComponent]
 })
 export class AppModule { }

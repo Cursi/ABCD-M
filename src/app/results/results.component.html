@@ -1,10 +1,24 @@
 <div [hidden]="isTestFinished">
-  <mat-card id="resultCard">
+  <mat-card class="resultCard">
     <mat-card-header id="resultsCardHeader">
       <mat-card-title id="resultsCardTitle">Pentru a iti vedea rezultatele trebuie mai intai sa completezi testul.</mat-card-title>
     </mat-card-header>
   </mat-card>
 
   <br>
-  <button mat-raised-button class="customBtn" routerLink="/test">Incepe testul</button>
+  <button mat-raised-button id="startBtn" class="customBtn" routerLink="/test">Incepe testul</button>
+</div>
+
+<div [hidden]="!isTestFinished">
+  <mat-card class="resultCard">
+    <mat-card-header>
+      <mat-card-title><h1 id="title">Rezultate</h1></mat-card-title>
+    </mat-card-header>
+    <div id="info">
+      Pentru a vedea nivelul corespunzator fiecarei categorii acopera bara cu mouse-ul.
+      <br>
+      Pentru a observa subcategoriile existente, apasa pe bara corespunzatoare.
+    </div>
+    <canvas id="canvas" (click)="BigSkillClick($event)"></canvas>
+  </mat-card>
 </div>

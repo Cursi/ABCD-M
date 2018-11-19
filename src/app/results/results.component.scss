@@ -1,7 +1,10 @@
-#resultCard
+.resultCard
 {
   padding-left: 0px;
   padding-right: 0px;
+  max-width: 620px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #resultsCardHeader
@@ -15,4 +18,40 @@
 #resultsCardTitle
 {
   margin-bottom: 0 !important;
+}
+
+#startBtn
+{
+  float: none;
+  margin-left: calc(50% - 62px) !important;
+}
+
+#canvas
+{
+    cursor: pointer;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    max-height: 320px;
+    padding-left: 18px;
+}
+
+#title
+{
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+
+#info
+{
+  margin: 0px 18px 18px 18px;
+}
+
+@media only screen and (max-width: 562px)
+{
+  #canvas
+  {
+    padding-left: 0;
+    margin-left: -18px;
+  }
 }
