@@ -1,0 +1,132 @@
+[
+  {
+    "category" : "Extraversie",
+    "types" :
+    [
+      {
+        "name" : "Activism",
+        "score" : 0
+      },
+      {
+        "name" : "Optimism",
+        "score" : 0
+      },
+      {
+        "name" : "Umor",
+        "score" : 0
+      },
+      {
+        "name" : "Abilitate interpersonala",
+        "score" : 0
+      },
+      {
+        "name" : "Afirmare personala",
+        "score" : 0
+      }
+    ]
+  },
+  {
+    "category" : "Maturitate",
+    "types" :
+    [
+      {
+        "name" : "Respect",
+        "score" : 0
+      },
+      {
+        "name" : "Adaptare",
+        "score" : 0
+      },
+      {
+        "name" : "Prietenie",
+        "score" : 0
+      },
+      {
+        "name" : "Forta inhibitiei",
+        "score" : 0
+      },
+      {
+        "name" : "Forta eului",
+        "score" : 0
+      }
+    ]
+  },
+  {
+    "category" : "Agreabilitate",
+    "types" :
+    [
+      {
+        "name" : "Altruism",
+        "score" : 0
+      },
+      {
+        "name" : "Romantism",
+        "score" : 0
+      },
+      {
+        "name" : "Caldura afectiva",
+        "score" : 0
+      },
+      {
+        "name" : "Empatie",
+        "score" : 0
+      },
+      {
+        "name" : "Onestitiate",
+        "score" : 0
+      }
+    ]
+  },
+  {
+    "category" : "Constiinciozitate",
+    "types" :
+    [
+      {
+        "name" : "Vointa",
+        "score" : 0
+      },
+      {
+        "name" : "Spirit de perfectiune",
+        "score" : 0
+      },
+      {
+        "name" : "Rationalitate",
+        "score" : 0
+      },
+      {
+        "name" : "Planificare",
+        "score" : 0
+      },
+      {
+        "name" : "Auto-disciplina",
+        "score" : 0
+      }
+    ]
+  },
+  {
+    "category" : "Autoactualizare",
+    "types" :
+    [
+      {
+        "name" : "Aprofundare",
+        "score" : 0
+      },
+      {
+        "name" : "Toleranta",
+        "score" : 0
+      },
+      {
+        "name" : "Rafinare",
+        "score" : 0
+      },
+      {
+        "name" : "Independenta",
+        "score" : 0
+      },
+      {
+        "name" : "Creativitate",
+        "score" : 0
+      }
+    ]
+  }
+]
